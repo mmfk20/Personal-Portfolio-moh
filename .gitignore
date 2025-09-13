@@ -1,0 +1,4 @@
+bin/
+obj/
+student.db
+.vscode/
